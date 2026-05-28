@@ -1,3 +1,6 @@
 pandas
 jupyter
 ipykernel
+scipy
+scipy
+matplotlib
